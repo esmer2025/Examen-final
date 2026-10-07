@@ -38,7 +38,7 @@ app.resizable(False, False)
 
 titulo = ctk.CTkLabel(
     app,
-    text="REGISTRO DE PRODUCTO",
+    text="REGISTRO DE PRODUCTO-EXAMEN FINAL",
     font=("Arial", 24, "bold")
 )
 titulo.pack(pady=(30, 25))
