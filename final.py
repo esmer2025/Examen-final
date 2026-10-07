@@ -43,6 +43,11 @@ titulo = ctk.CTkLabel(
 )
 titulo.pack(pady=(30, 25))
 
+subtitulo = ctk.CTkLabel(
+    app,
+    text="Sistema de registro de productos"
+)
+subtitulo.pack(pady=(0, 15))
 
 label_producto = ctk.CTkLabel(
     app,
